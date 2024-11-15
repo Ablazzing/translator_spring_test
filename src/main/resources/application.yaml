@@ -1,0 +1,8 @@
+app:
+  name: JavaTranslator
+  url: http://my_app:8081
+
+bank:
+  url: http://t-bank.ru
+
+

@@ -1,0 +1,9 @@
+app:
+  name: TestTranslator
+
+bank:
+  url: http://localhost:8080
+
+#spring:
+#  profiles:
+#    active: english
